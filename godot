@@ -1,2 +1,2 @@
-$ godot_web
+$ godot_web --external
 Server link: http://127.0.0.1:8000/
